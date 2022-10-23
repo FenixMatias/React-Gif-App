@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en <GifItem/> Debe hacer match con el snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Hola, soy Matias"
+      src="https://giphy.com/clips/rickandmorty-season-3-rick-and-morty-s3e10-EPPkEcNbKVWBvtJnpf"
+    />
+    <p>
+      Hola, soy Matias
+    </p>
+  </div>
+</div>
+`;
